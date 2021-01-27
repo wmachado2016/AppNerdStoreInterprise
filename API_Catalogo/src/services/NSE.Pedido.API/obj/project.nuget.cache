@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLlT1Vgyh5VriYI8vexgVYlt2MOgC4uaK3qzF/yzFFzEggaJsjFec3Z3n+yLgs6ZtrNhMPCShb+hWCb+5OmFAg==",
+  "success": true,
+  "projectFilePath": "C:\\Treinamento\\BackEnd\\CursosEduardoPires\\src\\services\\NSE.Pedido.API\\NSE.Pedido.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ley-PC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "C:\\Users\\Ley-PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Ley-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
